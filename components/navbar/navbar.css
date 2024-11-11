@@ -1,0 +1,42 @@
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1px 10px;
+    background-color: #fff;
+}
+
+nav ul li{
+    list-style-type: none;
+    color: gray;
+}
+ a{
+    text-decoration: none;
+    color: inherit;
+}
+
+nav ul .sing{
+    padding: 5px 20px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 34px;
+  
+  }
+  
